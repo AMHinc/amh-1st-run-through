@@ -9,7 +9,7 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      **Search through our various pages and infinite selection of clothing,
+      **Search through our various pages and unlimited selection of clothing,
       appliances, HomeGoods and so much MORE!**
     actions:
       - label: Get started
