@@ -61,7 +61,7 @@ sections:
     items:
       - type: FeaturedItem
         title: 500k
-        subtitle: 'https://shopstyle.it/l/ceDOv'
+        subtitle: "https://shopstyle.it/l/ceDOv\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ <img src=\"https://chart.googleapis.com/chart?cht=qr&chs=200x200&chl=https%3A%2F%2Fapi.shopstyle.com%2Faction%2FapiVisitRetailer%3Fid%3D1053694405%26pid%3Duid9044-46066229-12%26utm_content%3Dqr-code\">"
         text: ''
         actions: []
         elementId: null
