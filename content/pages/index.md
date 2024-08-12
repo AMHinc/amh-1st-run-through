@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Everything youve ever wanted at your fingertips
+      text: Everything you've ever wanted at your fingertips
       color: text-dark
       type: TitleBlock
     subtitle: ''
