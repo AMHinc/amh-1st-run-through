@@ -9,8 +9,8 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      search through our various pages and infinite selection of clothing,
-      appliances, HomeGoods and so much MORE!
+      **Search through our various pages and infinite selection of clothing,
+      appliances, HomeGoods and so much MORE!**
     actions:
       - label: Get started
         altText: ''
