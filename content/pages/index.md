@@ -61,7 +61,7 @@ sections:
     items:
       - type: FeaturedItem
         title: 500k
-        subtitle: Numbers Done
+        subtitle: 'https://shopstyle.it/l/ceDOv'
         text: ''
         actions: []
         elementId: null
