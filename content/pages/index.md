@@ -85,7 +85,7 @@ sections:
             self:
               borderRadius: x-large
       - title: 20x
-        subtitle: The Job Stuff
+        subtitle: T
         text: ''
         image:
           url: /images/icon2.svg
