@@ -85,7 +85,7 @@ sections:
             self:
               borderRadius: x-large
       - title: 20x
-        subtitle: T
+        subtitle: ''
         text: ''
         image:
           url: /images/icon2.svg
