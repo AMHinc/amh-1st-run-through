@@ -60,7 +60,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: 500k
+        title: ''
         subtitle: 'https://shopstyle.it/l/ceDOv'
         text: ''
         actions: []
