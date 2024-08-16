@@ -10,7 +10,7 @@ sections:
     subtitle: ''
     text: >
       **Search through our various pages and unlimited selection of clothing,
-      appliances, HomeGoods and so much MORE!**
+      appliances, home goods and so much MORE!**
     actions:
       - label: Get started
         altText: ''
