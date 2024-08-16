@@ -59,6 +59,28 @@ sections:
       type: TitleBlock
     subtitle: ''
     items:
+      - title: ''
+        subtitle: ''
+        text: ''
+        image:
+          url: /images/fam.jpg
+          altText: Featured icon two
+          elementId: ''
+          type: ImageBlock
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+            textAlign: center
+            justifyContent: center
+        type: FeaturedItem
       - type: FeaturedItem
         title: ''
         subtitle: bestselling in clothing shoes and jewelry
@@ -84,28 +106,6 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: ''
-        subtitle: ''
-        text: ''
-        image:
-          url: /images/fam.jpg
-          altText: Featured icon two
-          elementId: ''
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-            textAlign: center
-            justifyContent: center
-        type: FeaturedItem
       - title: 200%
         subtitle: Faster
         text: |
