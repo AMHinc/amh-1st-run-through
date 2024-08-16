@@ -62,7 +62,10 @@ sections:
       - type: FeaturedItem
         title: bestselling in clothing shoes and jewelry
         subtitle: ''
-        text: ''
+        text: |
+
+
+          https\://shopstyle.it/l/ceLjd
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
