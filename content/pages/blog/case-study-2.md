@@ -1,5 +1,5 @@
 ---
-title: Bath and Body products
+title: "Bath and Body products\_ https://shopstyle.it/l/ceLiz"
 slug: case-study-2
 date: '2022-02-16'
 excerpt: >-
