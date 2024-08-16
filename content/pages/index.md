@@ -84,6 +84,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
+          url: /images/spizike-low-top-sneaker.jpg
       - title: ''
         subtitle: ''
         text: ''
