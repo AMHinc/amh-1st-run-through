@@ -88,7 +88,7 @@ sections:
         subtitle: ''
         text: ''
         image:
-          url: /images/icon2.svg
+          url: /images/fam.jpg
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
