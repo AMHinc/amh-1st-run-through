@@ -60,7 +60,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: ''
+        title: bestselling in clothing shoes and jewelry
         subtitle: bestselling in clothing shoes and jewelry
         text: ''
         actions: []
