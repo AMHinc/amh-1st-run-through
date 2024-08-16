@@ -111,7 +111,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: bestselling outdoor and fitness equipment
-        subtitle: F
+        subtitle: ''
         text: ''
         image:
           url: /images/icon3.svg
