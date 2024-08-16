@@ -61,7 +61,7 @@ sections:
     items:
       - type: FeaturedItem
         title: ''
-        subtitle: bestselling in clothing sh oes and jewlery
+        subtitle: bestselling in clothing shoes and jewelry
         text: ''
         actions: []
         elementId: null
