@@ -110,7 +110,7 @@ sections:
             textAlign: center
             justifyContent: center
         type: FeaturedItem
-      - title: 200%
+      - title: Value backyard products
         subtitle: Faster
         text: |
           Best Home and Kitchen Deals!!
