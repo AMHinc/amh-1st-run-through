@@ -110,7 +110,7 @@ sections:
             textAlign: center
             justifyContent: center
         type: FeaturedItem
-      - title: best selling outdoor and fitness
+      - title: best selling outdoor and fitness equipment
         subtitle: Faster
         text: |
           Best Home and Kitchen Deals!!
