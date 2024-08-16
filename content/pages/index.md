@@ -61,7 +61,7 @@ sections:
     items:
       - type: FeaturedItem
         title: ''
-        subtitle: 'https://shopstyle.it/l/ceDOv'
+        subtitle: bestselling in clothing sh oes and jewlery
         text: ''
         actions: []
         elementId: null
