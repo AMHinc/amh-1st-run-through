@@ -1,5 +1,5 @@
 ---
-title: Latest Fashion
+title: "Latest Fashion\_ \_ \_ \_ \_ \_ \_ \_ \_ \_\_https://shopstyle.it/l/ceLiv"
 slug: case-study-1
 date: '2022-01-05'
 excerpt: >-
