@@ -35,7 +35,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: Welcome to AMH. inc
+      label: Welcome to AMH.inc
       color: text-primary
       type: Badge
     elementId: ''
