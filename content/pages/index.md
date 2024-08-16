@@ -114,7 +114,8 @@ sections:
         subtitle: ''
         text: ''
         image:
-          url: /images/icon3.svg
+          url: >-
+            /images/ozark-trail-versatile-outdoor-shade-wall-projector-screen-16-9-aspect-ratio-100-in-white-movie-screen.jpg
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
