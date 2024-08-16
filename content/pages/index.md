@@ -112,8 +112,7 @@ sections:
         type: FeaturedItem
       - title: bestselling outdoor and fitness equipment
         subtitle: Faster
-        text: |
-          Best Home and Kitchen Deals!!
+        text: ''
         image:
           url: /images/icon3.svg
           altText: Featured icon three
