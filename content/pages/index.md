@@ -142,7 +142,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: your happiness is our priority!!
+      label: your happiness is our priority!
       color: text-primary
       styles:
         self:
