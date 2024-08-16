@@ -110,7 +110,7 @@ sections:
             textAlign: center
             justifyContent: center
         type: FeaturedItem
-      - title: Value backyard products
+      - title: best selling outdoor and fitness
         subtitle: Faster
         text: |
           Best Home and Kitchen Deals!!
